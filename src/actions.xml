@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE ACTIONS SYSTEM "actions.dtd">
+
+<ACTIONS>
+<!--	<ACTION NAME="kcmjedit.test">
+		<CODE>
+			kcmjEditPlugin = edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.getInstance();
+			kcmjEditPlugin.test();
+		</CODE>
+	</ACTION> -->
+</ACTIONS>

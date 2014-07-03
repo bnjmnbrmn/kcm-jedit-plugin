@@ -1,0 +1,23 @@
+# Properties file for KCMjEdit
+
+# jEdit only needs to load the plugin the first time the user accesses it
+# the presence of this property also tells jEdit the plugin is using the new API
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.activate=defer
+#plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.activate=startup
+
+# These two properties are required for all plugins
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.name=KCMjEdit
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.author=Benjamin Berman
+
+# description
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.description=A Plugin for KCMs
+
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.version=0.1
+
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.depend.0=jedit 04.05.02.00
+
+# plugin menu
+#plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.menu=kcmjedit.test
+
+# labels for menu
+#kcmjedit.test.label=Test
