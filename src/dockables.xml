@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE DOCKABLES SYSTEM "dockables.dtd">
+
+<DOCKABLES>
+    <DOCKABLE NAME="kcmsholder" MOVABLE="TRUE">
+        new javax.swing.JPanel();
+    </DOCKABLE>
+</DOCKABLES>

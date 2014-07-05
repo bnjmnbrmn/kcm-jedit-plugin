@@ -17,7 +17,10 @@ plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.version=0.1
 plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.depend.0=jedit 04.05.02.00
 
 # plugin menu
-#plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.menu=kcmjedit.test
+plugin.edu.uiowa.cs.baberman.kcmjedit.KCMjEditPlugin.menu=kcmsholder
 
 # labels for menu
-#kcmjedit.test.label=Test
+kcmsholder.label=Show Menu
+
+#dockable window name
+kcmsholder.title=Keyboard-Card Menu
